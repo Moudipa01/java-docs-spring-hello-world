@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Azure!";
+		return "Welcome to FALL Semester followed by  Your Registration Number followed by the List of courses registered in this semester";
 	}
 }
